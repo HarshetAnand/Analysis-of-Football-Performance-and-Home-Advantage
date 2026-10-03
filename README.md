@@ -37,3 +37,5 @@ NFL game-level statistics from 2019-2023 sourced from Advanced Sports Analytics,
 
 - `Analysis of Football Performance and Home Advantage.Rmd`: the full analysis and write-up
 - The PDF: the rendered report
+
+Completed as a group project.
