@@ -36,6 +36,6 @@ NFL game-level statistics from 2019-2023 sourced from Advanced Sports Analytics,
 ## Files
 
 - `Analysis of Football Performance and Home Advantage.Rmd`: the full analysis and write-up
-- The PDF: the rendered report
+- `Exploring the Correlation between Skill Position Yards and Home Advantage on Football Game Outcomes.pdf`: the rendered report
 
 Completed as a group project.
